@@ -1,0 +1,34 @@
+{
+  "hotels": [
+    {
+      "id": 1,
+      "name": "Hotel Ritz",
+      "description": "Hotel Ritz Madrid is a 5-star hotel located in Madrid, Spain. It overlooks the Prado Museum and is considered one of the top hotels in the world.",
+      "image": "/img/hotel1.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Hotel Splendid",
+      "description": "Hotel Splendid is a luxurious 5-star resort situated on the shores of the Mediterranean Sea in Nice, France. It offers breathtaking views and world-class amenities.",
+      "image": "/img/hotel2.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Hotel Paradise",
+      "description": "Hotel Paradise is a tropical paradise located on a pristine island in the Maldives. Guests can enjoy crystal-clear waters and overwater bungalows.",
+      "image": "/img/hotel3.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Hotel Elegance",
+      "description": "Hotel Elegance is a charming boutique hotel in the heart of Paris, France. It offers a unique blend of modern comfort and classic French elegance.",
+      "image": "/img/hotel4.jpeg"
+    },
+    {
+      "id": 5,
+      "name": "Hotel Oasis",
+      "description": "Hotel Oasis is a beachfront resort in Cancun, Mexico. It features stunning white sandy beaches and a vibrant nightlife.",
+      "image": "/img/hotel5.jpg"
+    }
+  ]
+}
